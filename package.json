@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:big-surprise/react-native-push-notification.git"
+    "url": "https://github.com/big-surprise/react-native-push-notificatio.git"
   },
   "dependencies": {
     "@react-native-community/push-notification-ios": "^1.0.1"
